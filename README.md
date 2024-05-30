@@ -1,5 +1,5 @@
-# Fiap Tech Challenge - Order API
-Esse microsserviço é reponsável por realizar os pedidos do sistema Totem
+# Fiap Hackaton
+Essa POC foi criada para validação do projeto de Venda de Veiculos Online
 
 ## Technologies / Components implemented
 
